@@ -1,0 +1,220 @@
+   U/C0    0.0000    rot     -0.2270    rotp    -0.0994    rotk   -0.3825
+   kpdu     0.000    kpdi        nan    nu          0.0    ni         nan   
+   g1     94.4561    g2      98.5000    gb      4.04386    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent    -0.0    n_tr_d      nan    n_tr_b      nan    nk         0.0
+   dzvent -0.0000    dztrd       nan    dztrb       nan    dzkrut  0.0000
+   fi0     0.9289    fi       0.9278    dztau    0.0022    sigmas  0.5436
+   psi     0.8479    dzetai   0.0000    dz_nest  0.0000    sigmar  0.6527
+   ld1r     1.721    ld1t      1.861    ld1      1.5921    m1t     2.6136
+   c1      529.95    c1_sm    488.60    c1u_sm   453.54    c1z_sm  181.74
+   alfa1    26.82    alf1_sm   21.84    beta1     21.84    bet2     22.00
+   eps1r   0.0925    eps1     0.0491    epsprks  0.0445    epsprs  0.9384
+   p1   608973.79    pw1  4159465.14    t1       141.44    t2      196.42
+   w1      488.60    ldw1      1.592    w2       358.11    ldw2     1.167
+   ro2    23.7622    tw       281.19    w2t      422.34    ldw2t    1.376
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.0663    rot     -0.2139    rotp    -0.0829    rotk   -0.3744
+   kpdu     0.198    kpdi      0.198    nu     2485040.1    ni     2481733.0   
+   g1     94.4561    g2      98.3048    gb      3.84867    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent  -103.9    n_tr_d     71.7    n_tr_b     38.0    nk         0.0
+   dzvent -0.0000    dztrd    0.0000    dztrb    0.0000    dzkrut  0.0003
+   fi0     0.9354    fi       0.9342    dztau    0.0023    sigmas  0.5778
+   psi     0.8540    dzetai   0.0001    dz_nest  0.0026    sigmar  0.6926
+   ld1r     1.721    ld1t      1.851    ld1      1.6044    m1t     2.5810
+   c1      530.75    c1_sm    492.39    c1u_sm   461.87    c1z_sm  170.67
+   alfa1    25.28    alf1_sm   20.28    beta1     21.75    bet2     22.00
+   eps1r   0.0925    eps1     0.0516    epsprks  0.0445    epsprs  0.9384
+   p1   640491.59    pw1  3752386.11    t1       141.02    t2      190.23
+   w1      460.48    ldw1      1.543    w2       336.38    ldw2     1.127
+   ro2    24.5359    tw       266.06    w2t      393.89    ldw2t    1.319
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.1326    rot     -0.1982    rotp    -0.0638    rotk   -0.3635
+   kpdu     0.370    kpdi      0.370    nu     4647015.8    ni     4640982.1   
+   g1     94.4561    g2      97.9916    gb      3.53546    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent  -857.5    n_tr_d    508.7    n_tr_b    145.1    nk         0.0
+   dzvent -0.0001    dztrd    0.0000    dztrb    0.0000    dzkrut  0.0005
+   fi0     0.9423    fi       0.9410    dztau    0.0025    sigmas  0.6170
+   psi     0.8593    dzetai   0.0002    dz_nest  0.0050    sigmar  0.7292
+   ld1r     1.721    ld1t      1.839    ld1      1.6174    m1t     2.5422
+   c1      531.18    c1_sm    496.37    c1u_sm   470.35    c1z_sm  158.59
+   alfa1    23.65    alf1_sm   18.63    beta1     21.53    bet2     22.00
+   eps1r   0.0925    eps1     0.0548    epsprks  0.0445    epsprs  0.9384
+   p1   680186.28    pw1  3416834.75    t1       140.79    t2      184.46
+   w1      432.14    ldw1      1.489    w2       314.63    ldw2     1.084
+   ro2    25.3027    tw       251.51    w2t      366.14    ldw2t    1.261
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.1988    rot     -0.1795    rotp    -0.0423    rotk   -0.3493
+   kpdu     0.516    kpdi      0.515    nu     6476247.8    ni     6468487.6   
+   g1     94.4561    g2      97.4821    gb      3.02604    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent -2979.0    n_tr_d   1612.0    n_tr_b    307.2    nk         0.0
+   dzvent -0.0002    dztrd    0.0001    dztrb    0.0000    dzkrut  0.0007
+   fi0     0.9495    fi       0.9480    dztau    0.0027    sigmas  0.6596
+   psi     0.8639    dzetai   0.0006    dz_nest  0.0072    sigmar  0.7624
+   ld1r     1.721    ld1t      1.825    ld1      1.6308    m1t     2.4975
+   c1      530.96    c1_sm    500.47    c1u_sm   478.74    c1z_sm  145.89
+   alfa1    22.00    alf1_sm   16.95    beta1     21.20    bet2     22.00
+   eps1r   0.0925    eps1     0.0588    epsprks  0.0445    epsprs  0.9384
+   p1   729198.38    pw1  3138679.45    t1       140.91    t2      179.19
+   w1      403.49    ldw1      1.430    w2       293.03    ldw2     1.039
+   ro2    26.0465    tw       237.57    w2t      339.21    ldw2t    1.203
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.2651    rot     -0.1590    rotp    -0.0197    rotk   -0.3320
+   kpdu     0.633    kpdi      0.633    nu     7955900.4    ni     7947965.1   
+   g1     94.4561    g2      96.6259    gb      2.16977    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent -7247.0    n_tr_d   3666.0    n_tr_b    502.8    nk         0.0
+   dzvent -0.0006    dztrd    0.0003    dztrb    0.0000    dzkrut  0.0009
+   fi0     0.9560    fi       0.9545    dztau    0.0030    sigmas  0.7012
+   psi     0.8675    dzetai   0.0013    dz_nest  0.0093    sigmar  0.7919
+   ld1r     1.721    ld1t      1.809    ld1      1.6451    m1t     2.4491
+   c1      529.88    c1_sm    504.86    c1u_sm   486.97    c1z_sm  133.24
+   alfa1    20.46    alf1_sm   15.30    beta1     20.83    bet2     22.00
+   eps1r   0.0925    eps1     0.0634    epsprks  0.0445    epsprs  0.9384
+   p1   786266.26    pw1  2905014.95    t1       141.48    t2      174.60
+   w1      374.73    ldw1      1.367    w2       271.77    ldw2     0.992
+   ro2    26.7314    tw       224.23    w2t      313.29    ldw2t    1.143
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.3314    rot     -0.1415    rotp    -0.0013    rotk   -0.3163
+   kpdu     0.721    kpdi      0.721    nu     9055926.2    ni     9050042.3   
+   g1     94.4561    g2      95.0381    gb      0.58202    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent -14445.7    n_tr_d   6934.7    n_tr_b    744.1    nk         0.0
+   dzvent -0.0012    dztrd    0.0006    dztrb    0.0001    dzkrut  0.0010
+   fi0     0.9606    fi       0.9589    dztau    0.0032    sigmas  0.7316
+   psi     0.8699    dzetai   0.0017    dz_nest  0.0113    sigmar  0.8179
+   ld1r     1.721    ld1t      1.795    ld1      1.6647    m1t     2.4089
+   c1      528.32    c1_sm    510.90    c1u_sm   496.01    c1z_sm  122.43
+   alfa1    19.34    alf1_sm   13.87    beta1     20.64    bet2     22.00
+   eps1r   0.0925    eps1     0.0675    epsprks  0.0445    epsprs  0.9384
+   p1   837073.36    pw1  2696612.84    t1       142.30    t2      171.08
+   w1      347.40    ldw1      1.306    w2       250.70    ldw2     0.942
+   ro2    27.2819    tw       211.36    w2t      288.19    ldw2t    1.083
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.3977    rot     -0.1100    rotp     0.0304    rotk   -0.2858
+   kpdu     0.757    kpdi      0.757    nu     9511266.3    ni     9509313.5   
+   g1     94.4561    g2      91.6291    gb     -2.82701    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent -25533.0    n_tr_d  11716.7    n_tr_b   1532.1    nk         0.0
+   dzvent -0.0020    dztrd    0.0009    dztrb    0.0001    dzkrut  0.0011
+   fi0     0.9667    fi       0.9647    dztau    0.0038    sigmas  0.7744
+   psi     0.8718    dzetai   0.0042    dz_nest  0.0130    sigmar  0.8447
+   ld1r     1.721    ld1t      1.770    ld1      1.6638    m1t     2.3382
+   c1      524.13    c1_sm    510.60    c1u_sm   499.39    c1z_sm  106.38
+   alfa1    17.67    alf1_sm   12.03    beta1     19.87    bet2     22.00
+   eps1r   0.0925    eps1     0.0753    epsprks  0.0445    epsprs  0.9384
+   p1   934827.72    pw1  2481653.49    t1       144.50    t2      167.25
+   w1      312.95    ldw1      1.209    w2       228.47    ldw2     0.882
+   ro2    27.9058    tw       200.19    w2t      262.08    ldw2t    1.012
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.4640    rot     -0.0476    rotp     0.0891    rotk   -0.2194
+   kpdu     0.769    kpdi      0.770    nu     9662339.7    ni     9666783.6   
+   g1     94.4561    g2      89.6090    gb     -4.84710    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent -41212.6    n_tr_d  18223.5    n_tr_b   2783.6    nk         0.0
+   dzvent -0.0033    dztrd    0.0015    dztrb    0.0002    dzkrut  0.0013
+   fi0     0.9713    fi       0.9687    dztau    0.0051    sigmas  0.8158
+   psi     0.8709    dzetai   0.0087    dz_nest  0.0152    sigmar  0.8605
+   ld1r     1.721    ld1t      1.720    ld1      1.6317    m1t     2.2048
+   c1      511.28    c1_sm    500.77    c1u_sm   493.12    c1z_sm   87.18
+   alfa1    15.31    alf1_sm   10.03    beta1     18.95    bet2     22.00
+   eps1r   0.0925    eps1     0.0928    epsprks  0.0445    epsprs  0.9384
+   p1  1151968.47    pw1  2372071.17    t1       151.12    t2      164.55
+   w1      268.41    ldw1      1.058    w2       212.26    ldw2     0.836
+   ro2    28.3649    tw       192.26    w2t      243.72    ldw2t    0.960
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.5303    rot      0.0376    rotp     0.1632    rotk   -0.1203
+   kpdu     0.742    kpdi      0.743    nu     9320280.3    ni     9334224.6   
+   g1     94.4561    g2      87.9633    gb     -6.49281    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent -61181.9    n_tr_d  26396.0    n_tr_b   4409.4    nk         0.0
+   dzvent -0.0049    dztrd    0.0021    dztrb    0.0004    dzkrut  0.0013
+   fi0     0.9644    fi       0.9604    dztau    0.0077    sigmas  0.8041
+   psi     0.8683    dzetai   0.0063    dz_nest  0.0226    sigmar  0.8683
+   ld1r     1.721    ld1t      1.648    ld1      1.5573    m1t     2.0343
+   c1      485.83    c1_sm    477.91    c1u_sm   472.72    c1z_sm   70.24
+   alfa1    13.34    alf1_sm    8.45    beta1     19.42    bet2     22.00
+   eps1r   0.0925    eps1     0.1212    epsprks  0.0445    epsprs  0.9384
+   p1  1503529.65    pw1  2324760.20    t1       163.74    t2      165.45
+   w1      211.30    ldw1      0.838    w2       202.99    ldw2     0.805
+   ro2    28.2097    tw       189.75    w2t      233.78    ldw2t    0.927
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.5965    rot      0.1160    rotp     0.2279    rotk   -0.0241
+   kpdu     0.687    kpdi      0.690    nu     8632318.3    ni     8659734.3   
+   g1     94.4561    g2      86.9066    gb     -7.54955    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent -85206.6    n_tr_d  36210.2    n_tr_b   6258.6    nk         0.0
+   dzvent -0.0068    dztrd    0.0029    dztrb    0.0005    dzkrut  0.0012
+   fi0     0.9467    fi       0.9409    dztau    0.0111    sigmas  0.7595
+   psi     0.8616    dzetai   0.0001    dz_nest  0.0404    sigmar  0.8673
+   ld1r     1.721    ld1t      1.580    ld1      1.4654    m1t     1.8871
+   c1      456.16    c1_sm    449.73    c1u_sm   445.77    c1z_sm   59.52
+   alfa1    12.25    alf1_sm    7.60    beta1     23.31    bet2     22.00
+   eps1r   0.0925    eps1     0.1522    epsprks  0.0445    epsprs  0.9384
+   p1  1889240.03    pw1  2334744.61    t1       177.65    t2      169.15
+   w1      150.42    ldw1      0.593    w2       199.25    ldw2     0.786
+   ro2    27.5925    tw       191.81    w2t      231.26    ldw2t    0.912
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
+   U/C0    0.6628    rot      0.1760    rotp     0.2762    rotk    0.0512
+   kpdu     0.618    kpdi      0.621    nu     7758461.2    ni     7803018.6   
+   g1     94.4561    g2      86.1964    gb     -8.25975    gk     0.00000   
+   Re_s    473000    mus      0.9777    muosp    0.5001    murad   0.7242
+   Re_akt       0    muk_akt  0.0000    Re_no         0    muk_no  0.0000
+   n_vent -113593.3    n_tr_d  47783.9    n_tr_b   8340.8    nk         0.0
+   dzvent -0.0090    dztrd    0.0038    dztrb    0.0007    dzkrut  0.0010
+   fi0     0.9270    fi       0.9193    dztau    0.0143    sigmas  0.7206
+   psi     0.8380    dzetai   0.0064    dz_nest  0.0740    sigmar  0.8451
+   ld1r     1.721    ld1t      1.525    ld1      1.3838    m1t     1.7796
+   c1      430.32    c1_sm    424.69    c1u_sm   421.37    c1z_sm   53.07
+   alfa1    11.71    alf1_sm    7.18    beta1     33.70    bet2     22.00
+   eps1r   0.0925    eps1     0.1796    epsprks  0.0445    epsprs  0.9384
+   p1  2228316.24    pw1  2419289.72    t1       189.05    t2      174.05
+   w1       95.63    ldw1      0.373    w2       198.21    ldw2     0.774
+   ro2    26.8162    tw       195.99    w2t      236.51    ldw2t    0.923
+   _delmin 0.6570    tau     -0.1831    bet2g     22.00    epsl    1.2628
+   fkrs    0.0032    dkrs     0.0185    d1       0.0263    f2      0.0156
+
+
