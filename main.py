@@ -1,37 +1,39 @@
 import os
 import pandas as pd
+import shutil
+import subprocess
 
 basic_text = '''0
 up
 p_inE+06
 p_outE+06
-14
-22
+16
+30
 1
-2.018
-0.010
+2.127
+0.023
 0.032
-0.352
-5.701E-003
-1.9903E-002
-1.01E-003
-2.0E-003
-1.0E-003
-2.0E-003
-1.01E-003
+0.366
+4.000000E-03
+4.737000E-03
+1.000000E-03
+4.200000E-03
+3.200000E-03
+4.200000E-03
+1.000000E-03
 12
 1
-0.01355
-7.50000E-004
-7.50000E-004
+0.013893
+0.75000E-03
+0.75000E-03
 1.4
 287.1
 T_in
-7.14
-6.4
+5.77
+8.0
 1.00000E-03
 1.00000E-03
-0.010
+0.023
 a
 p
 0.00001
@@ -56,9 +58,14 @@ for i, row in data.iterrows():
                 .replace('p_out', str(row['pвых']))
                 .replace('T_in', str(row['Tвх*'])))
 
-    dir_name = str(row['t'])
-    os.mkdir(dir_name)
+    dir_name = os.path.join('var', str(row['t']))
+    try:
+        os.mkdir(dir_name)
+    except FileExistsError:
+        pass
 
     with open(os.path.join(dir_name, 'var.dat'), 'w') as var_file:
         var_file.write(new_text)
+        shutil.copy("app_with_sas.exe", dir_name)
+        # subprocess.run(os.path.join(dir_name, "app_with_sas.exe"))
 
